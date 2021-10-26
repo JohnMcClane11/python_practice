@@ -1,6 +1,6 @@
 import requests
 import json
-from homework_18_6.config import keys
+from config import keys
 
 class ConvertionExceprion(Exception):
     pass
